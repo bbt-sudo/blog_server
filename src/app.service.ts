@@ -6,3 +6,4 @@ export class AppService {
     return 'Hello World!';
   }
 }
+//测试自动huaooo
